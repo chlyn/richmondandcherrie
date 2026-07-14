@@ -138,7 +138,7 @@ function Details() {
                     </p>
 
                     <p className="details-registry-copy">
-                        For friends and family who wish to honor us with a gift, we have created a newlywed fund as we begin this new chapter together.
+                        To our dear Friends and Family, your love and support mean the world to us. If you wish to honor us with a gift, we have created a newlywed fund as we begin this exciting new chapter together.
                     </p>
 
                     <div className="details-registry-links">
